@@ -42,6 +42,7 @@
 
 ✨ **[Food ordered](#)** – Food ordered digital platform that allows customers to browse menus, customize orders, and pay for food online from various restaurants                              or food providers, automating the process from order placement to payment..    
 🏫 **[Weather App](#)** –  weather app provides information about atmospheric conditions, such as temperature, precipitation, and wind. 
+🚀 **[Online Examination System]** - Developed a web-based Online Examination System using HTML, CSS, and JavaScript that enables users to take exams online with automatic evaluation, real-time score calculation, and instant result display with pass/fail status. 
 
 ---
 
