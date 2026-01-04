@@ -45,6 +45,8 @@
 
 🚀 **[Online Examination System](#)** -  Developed a web-based Online Examination System using HTML, CSS, and JavaScript that enables users to take exams online with automatic evaluation, real-time score calculation, and instant result display with pass/fail status. 
 
+📈🎓  **[student result management system](#)** - Developed a Student Result Management System that allows admins to manage student records, enter marks, calculate results automatically, and generate performance reports with a user-friendly interface.
+
 ---
 
 ## 📈 GitHub Stats (Dark + Blue)  
