@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me  
 
-💡 Passionate about **WEB DEVELOPER** , writing clean code.  
+💡 Passionate about **WEB DEVELOPER** and writing clean code.  
 🎓 CSE Undergrad @ St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** focused on data structure and algorithm**.  
 
