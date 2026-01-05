@@ -53,7 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GudepuSravani&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="160"/>
 </p>
 
 ---
