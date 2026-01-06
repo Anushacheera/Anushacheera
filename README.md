@@ -34,10 +34,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
---=[]
-'
-'
+
 ## 🔭 Featured Projects  
 
 ✨ **[Food ordered website](#)** – Food ordered digital platform that allows customers to browse menus, customize orders, and pay for food online from various restaurants                              or food providers, automating the process from order placement to payment..    
