@@ -48,8 +48,7 @@
 
 ## 📈 GitHub Stats (Dark + Blue)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushacheera&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
+github-readme-stats.vercel.app/api?username=anushacheera&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
 </p>
 
 ---
