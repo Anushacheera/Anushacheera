@@ -46,10 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats (Dark + Blue)  
-
-
----
 
 ## 🤝 Connect with Me  
 
