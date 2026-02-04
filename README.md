@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data structure and algorithm-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javacsriptlogoColor=white"/>
