@@ -43,6 +43,15 @@
 
 📈🎓  **[student result management system](#)** - Developed a Student Result Management System that allows admins to manage student records, enter marks, calculate results automatically, and generate performance reports with a user-friendly interface.
 
+      **[password generator](#)** - Evaluate and generate secure passwords by calculating entropy and strength based on length and character types (uppercase, lowercase, numbers, symbols) to ensure robustness against attacks
+HTML:  Build the structure of the web interface where the user inputs parameters (length, character types) and sees the generated password.
+
+CSS :Make the web interface visually usable and responsive. Style the input fields, buttons, and password display area for clarity and accessibility.
+
+JAVASCRIPT :Handle the frontend logic, send requests to the Flask API, and dynamically update the page without reloads. Receive the generated password from the API and update the password display area in real time.
+
+Python (Flask API) : Process the request from the frontend, generate a secure password according to user parameters, and return it. Define an API route (generate-password) that accepts POST requests with user options.
+
 ---
 
 
